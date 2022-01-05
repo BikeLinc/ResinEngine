@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ResinEngine", "ResinEngine\ResinEngine.vcxproj", "{9624EC88-A2C3-49A3-B07E-86DC06AFA525}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7651C0C2-21C5-4E73-ABD7-1437138BBF62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9624EC88-A2C3-49A3-B07E-86DC06AFA525}.Debug|x64.ActiveCfg = Debug|x64
+		{9624EC88-A2C3-49A3-B07E-86DC06AFA525}.Debug|x64.Build.0 = Debug|x64
+		{9624EC88-A2C3-49A3-B07E-86DC06AFA525}.Debug|x86.ActiveCfg = Debug|Win32
+		{9624EC88-A2C3-49A3-B07E-86DC06AFA525}.Debug|x86.Build.0 = Debug|Win32
+		{9624EC88-A2C3-49A3-B07E-86DC06AFA525}.Release|x64.ActiveCfg = Release|x64
+		{9624EC88-A2C3-49A3-B07E-86DC06AFA525}.Release|x64.Build.0 = Release|x64
+		{9624EC88-A2C3-49A3-B07E-86DC06AFA525}.Release|x86.ActiveCfg = Release|Win32
+		{9624EC88-A2C3-49A3-B07E-86DC06AFA525}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00ADA286-8D1D-4A56-8595-0F853C6CC7D5}
+	EndGlobalSection
+EndGlobal
